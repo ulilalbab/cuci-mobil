@@ -1,0 +1,11 @@
+D:\VB ADSIM\Cuci Mobil\Cuci Mobil\bin\Debug\Cuci Mobil.exe.config
+D:\VB ADSIM\Cuci Mobil\Cuci Mobil\bin\Debug\Cuci Mobil.exe
+D:\VB ADSIM\Cuci Mobil\Cuci Mobil\bin\Debug\Cuci Mobil.pdb
+D:\VB ADSIM\Cuci Mobil\Cuci Mobil\bin\Debug\Cuci Mobil.xml
+D:\VB ADSIM\Cuci Mobil\Cuci Mobil\obj\Debug\WindowsApplication1.Form1.resources
+D:\VB ADSIM\Cuci Mobil\Cuci Mobil\obj\Debug\WindowsApplication1.Form2.resources
+D:\VB ADSIM\Cuci Mobil\Cuci Mobil\obj\Debug\WindowsApplication1.Resources.resources
+D:\VB ADSIM\Cuci Mobil\Cuci Mobil\obj\Debug\Cuci Mobil.vbproj.GenerateResource.Cache
+D:\VB ADSIM\Cuci Mobil\Cuci Mobil\obj\Debug\Cuci Mobil.exe
+D:\VB ADSIM\Cuci Mobil\Cuci Mobil\obj\Debug\Cuci Mobil.xml
+D:\VB ADSIM\Cuci Mobil\Cuci Mobil\obj\Debug\Cuci Mobil.pdb
